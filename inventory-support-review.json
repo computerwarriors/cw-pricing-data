@@ -1,899 +1,17 @@
 {
-  "_generated": "2026-07-10T23:22:19.351Z",
-  "_note": "Report only. No products were disabled.",
+  "_generated": "2026-07-10T23:30:21.277Z",
+  "_rule": "Device supported if on current major OS (iOS 26 / iPadOS 26 / Android 16). Multi-fit part kept if ANY fitted device is on current OS.",
   "scannedProductCount": 649,
   "counts": {
-    "pullReturn": 5,
-    "wouldDisable": 50,
-    "reviewManual": 89
+    "pullReturn": 22,
+    "wouldDisable": 46,
+    "reviewManual": 2
   },
   "pullReturn": [
-    {
-      "id": 22619682,
-      "name": "Galaxy S21 Plus | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 29.28
-    },
-    {
-      "id": 22628753,
-      "name": "Galaxy S21 Plus | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 26.21
-    },
-    {
-      "id": 22619679,
-      "name": "Galaxy S21 Ultra | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S21 Ultra",
-      "partKey": "samsung",
-      "totalQty": 2,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 2
-      },
-      "disabled": false,
-      "price_cost": 23.89
-    },
-    {
-      "id": 22628741,
-      "name": "Galaxy S21 Ultra | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S21 Ultra",
-      "partKey": "samsung",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 26.21
-    },
-    {
-      "id": 23234905,
-      "name": "Galaxy S21 Ultra | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21 Ultra",
-      "partKey": "samsung",
-      "totalQty": 2,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 2
-      },
-      "disabled": false,
-      "price_cost": 244.48
-    }
-  ],
-  "wouldDisable": [
-    {
-      "id": 23559103,
-      "name": "Google Pixel 10 Pro Fold | Back Glass | Rear Housing",
-      "family": "pixel",
-      "categoryId": "666248",
-      "device": "Pixel 10 Pro Fold",
-      "partKey": "pixel__pixel__pixel_10_pro_fold__15180__back_glass_rear_housing",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 136.36
-    },
-    {
-      "id": 23559097,
-      "name": "Google Pixel 10 Pro Fold | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel 10 Pro Fold",
-      "partKey": "pixel__pixel__pixel_10_pro_fold__15180__battery",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 57.27
-    },
-    {
-      "id": 23559090,
-      "name": "Google Pixel 10 Pro Fold | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 10 Pro Fold",
-      "partKey": "pixel__pixel__pixel_10_pro_fold__15180__screen",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 190.21
-    },
-    {
-      "id": 23559102,
-      "name": "Google Pixel 5 | Back Glass | Rear Housing",
-      "family": "pixel",
-      "categoryId": "666248",
-      "device": "Pixel 5",
-      "partKey": "pixel__pixel__pixel_5__5408__back_glass_rear_housing",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 96.53
-    },
-    {
-      "id": 23549364,
-      "name": "Google Pixel 5 | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel 5",
-      "partKey": "pixel__pixel__pixel_5__5408__battery",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 22.53
-    },
-    {
-      "id": 23549362,
-      "name": "Google Pixel 5 | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 5",
-      "partKey": "pixel__pixel__pixel_5__5408__screen",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 180.03
-    },
-    {
-      "id": 23549120,
-      "name": "Google Pixel 9 Pro Fold | Back Glass | Rear Housing",
-      "family": "pixel",
-      "categoryId": "666248",
-      "device": "Pixel 9 Pro Fold",
-      "partKey": "pixel__pixel__pixel_9_pro_fold__13723__back_glass_rear_housing",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 130.26
-    },
-    {
-      "id": 23549406,
-      "name": "Google Pixel 9 Pro Fold | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel 9 Pro Fold",
-      "partKey": "pixel__pixel__pixel_9_pro_fold__13723__battery",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 35.73
-    },
-    {
-      "id": 23559091,
-      "name": "Google Pixel 9 Pro Fold | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 9 Pro Fold",
-      "partKey": "pixel__pixel__pixel_9_pro_fold__13723__screen",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 757.38
-    },
-    {
-      "id": 23549129,
-      "name": "Google Pixel Fold | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel Fold",
-      "partKey": "pixel__pixel__pixel_fold__12645__battery",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 31.25
-    },
-    {
-      "id": 23549128,
-      "name": "Google Pixel Fold | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel Fold",
-      "partKey": "pixel__pixel__pixel_fold__12645__screen",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 145.42
-    },
-    {
-      "id": 23549365,
-      "name": "Pixel 5 | Back Glass / Rear Housing",
-      "family": "pixel",
-      "categoryId": "666248",
-      "device": "Pixel 5",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 2.57
-    },
-    {
-      "id": 23549367,
-      "name": "Pixel 5A 5G | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel 5A 5G",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 10.21
-    },
-    {
-      "id": 23553677,
-      "name": "Pixel 5A 5G | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 5A 5G",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 82.9
-    },
-    {
-      "id": 23549366,
-      "name": "Pixel 5A 5G | Screen old",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 5A 5G",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": true,
-      "price_cost": 85.03
-    },
-    {
-      "id": 23552899,
-      "name": "Pixel 9 Pro Fold | Battery",
-      "family": "pixel",
-      "categoryId": "666235",
-      "device": "Pixel 9 Pro Fold",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 32.65
-    },
-    {
-      "id": 23549405,
-      "name": "Pixel 9 Pro Fold | Screen",
-      "family": "pixel",
-      "categoryId": "666232",
-      "device": "Pixel 9 Pro Fold",
-      "partKey": "pixel",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 98.99
-    },
-    {
-      "id": 23549259,
-      "name": "Galaxy S20 | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S20",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 22.91
-    },
-    {
-      "id": 23549258,
-      "name": "Galaxy S20 | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S20",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 23.28
-    },
-    {
-      "id": 23549255,
-      "name": "Galaxy S20 | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 185.33
-    },
-    {
-      "id": 23549256,
-      "name": "Galaxy S20 | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 162.2
-    },
-    {
-      "id": 23549264,
-      "name": "Galaxy S20 FE | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 20.2
-    },
-    {
-      "id": 23549262,
-      "name": "Galaxy S20 FE | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 19.11
-    },
-    {
-      "id": 23549263,
-      "name": "Galaxy S20 FE | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 12.76
-    },
-    {
-      "id": 23553762,
-      "name": "Galaxy S20 FE | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 95.58
-    },
-    {
-      "id": 23552155,
-      "name": "Galaxy S20 FE | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 89.07
-    },
-    {
-      "id": 23549260,
-      "name": "Galaxy S20 FE | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 83.2
-    },
-    {
-      "id": 23549261,
-      "name": "Galaxy S20 FE | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 FE",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 70.4
-    },
-    {
-      "id": 23549269,
-      "name": "Galaxy S20 Plus | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S20 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 29.24
-    },
-    {
-      "id": 23549267,
-      "name": "Galaxy S20 Plus | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S20 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 27.13
-    },
-    {
-      "id": 23549265,
-      "name": "Galaxy S20 Plus | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 173.6
-    },
-    {
-      "id": 23549266,
-      "name": "Galaxy S20 Plus | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 152.71
-    },
-    {
-      "id": 23549274,
-      "name": "Galaxy S20 Ultra | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 29.28
-    },
-    {
-      "id": 23549272,
-      "name": "Galaxy S20 Ultra | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 29.45
-    },
-    {
-      "id": 23549273,
-      "name": "Galaxy S20 Ultra | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 3.29
-    },
-    {
-      "id": 23553541,
-      "name": "Galaxy S20 Ultra | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 193.42
-    },
-    {
-      "id": 23549270,
-      "name": "Galaxy S20 Ultra | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 215.59
-    },
-    {
-      "id": 23549271,
-      "name": "Galaxy S20 Ultra | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S20 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 182.88
-    },
-    {
-      "id": 22619687,
-      "name": "Galaxy S21 | Back Glass / Rear Housing",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "Galaxy S21",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 0
-      },
-      "disabled": false,
-      "price_cost": 21.48
-    },
-    {
-      "id": 23549278,
-      "name": "Galaxy S21 | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "Galaxy S21",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 24.29
-    },
-    {
-      "id": 23549279,
-      "name": "Galaxy S21 | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S21",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 16.81
-    },
-    {
-      "id": 23549276,
-      "name": "Galaxy S21 | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 142.69
-    },
-    {
-      "id": 23549277,
-      "name": "Galaxy S21 | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 117.03
-    },
-    {
-      "id": 23553526,
-      "name": "Galaxy S21 Plus | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 10.12
-    },
-    {
-      "id": 23552158,
-      "name": "Galaxy S21 Plus | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 6.72
-    },
-    {
-      "id": 23549287,
-      "name": "Galaxy S21 Plus | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 15.44
-    },
-    {
-      "id": 23549285,
-      "name": "Galaxy S21 Plus | Screen | With Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 158.57
-    },
-    {
-      "id": 23549286,
-      "name": "Galaxy S21 Plus | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21 Plus",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 125.43
-    },
-    {
-      "id": 23549289,
-      "name": "Galaxy S21 Ultra | Charging Port",
-      "family": "samsung",
-      "categoryId": "666242",
-      "device": "Galaxy S21 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 15.72
-    },
-    {
-      "id": 23549288,
-      "name": "Galaxy S21 Ultra | Screen | Without Frame",
-      "family": "samsung",
-      "categoryId": "636697",
-      "device": "Galaxy S21 Ultra",
-      "partKey": "samsung",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 216.43
-    }
-  ],
-  "reviewManual": [
-    {
-      "id": 15737851,
-      "name": " iPad Mini 5  (White) Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Loc 2331": 0,
-        "Wilmington": 0,
-        "Loc 1732": 2
-      },
-      "disabled": false,
-      "price_cost": 95.63,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 20429766,
-      "name": "iPad 10 (2022) / iPad 11 (2025) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 4,
-      "perLoc": {
-        "Jacksonville": 1,
-        "Wilmington": 3
-      },
-      "disabled": false,
-      "price_cost": 29.8,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 5881508,
-      "name": "iPad 5 white Digitizer",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": true,
-      "price_cost": 14.65,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
     {
       "id": 8782851,
       "name": "iPad 6 Digitizer- Black",
       "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
       "totalQty": 3,
       "perLoc": {
         "Wilmington": 3,
@@ -901,15 +19,15 @@
       },
       "disabled": false,
       "price_cost": 14.44,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPad 6"
+      ],
+      "via": "name"
     },
     {
       "id": 8234270,
       "name": "iPad 6 Digitizer- White",
       "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
       "totalQty": 4,
       "perLoc": {
         "Jacksonville": 2,
@@ -917,959 +35,15 @@
       },
       "disabled": false,
       "price_cost": 14.53,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549220,
-      "name": "iPad 7 (2019) / iPad 8 (2020) / iPad 9 (2021) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 24.77,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549221,
-      "name": "iPad 7 (2019) / iPad 8 (2020) / iPad 9 (2021) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 2.38,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 12564344,
-      "name": "iPad 7 (2019) / iPad 8 (2020) / iPad 9 (2021) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 5,
-      "perLoc": {
-        "Jacksonville": 1,
-        "Wilmington": 4
-      },
-      "disabled": false,
-      "price_cost": 20.71,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 20429776,
-      "name": "iPad 7 / 8 / 9  LCD",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 51.51,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 12564343,
-      "name": "iPad 7 / 8 / 9 10.2\" Digitizer- White",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 15,
-      "perLoc": {
-        "Jacksonville": 11,
-        "Wilmington": 4
-      },
-      "disabled": false,
-      "price_cost": 18.01,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17186280,
-      "name": "iPad 7 10.2\" Digitizer- Black",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": true,
-      "price_cost": 14.01,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17187070,
-      "name": "iPad 7 10.2\" Digitizer- White",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": true,
-      "price_cost": 14.76,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 1393390,
-      "name": "iPad Air 1 / 5 / 6  LCD",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 1
-      },
-      "disabled": false,
-      "price_cost": 65.1,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558288,
-      "name": "iPad Air 11\" (2024) / iPad Air 11\" (2025) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 13.61,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23585391,
-      "name": "iPad Air 11\" (2024) / iPad Air 11\" (2025) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 113.75,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558290,
-      "name": "iPad Air 11\" (2024) / iPad Air 11\" (2025) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 224.28,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549227,
-      "name": "iPad Air 13\" (2024) / iPad Air 13\" (2025) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 14.59,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558302,
-      "name": "iPad Air 13\" (2024) / iPad Air 13\" (2025) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 259.2,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549225,
-      "name": "iPad Air 13\" (2024) / iPad Air 13\" (2025) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 63.15,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549218,
-      "name": "iPad Air 4 (2020) / iPad Air 5 (2022) / iPad 10 (2022) / iPad Air 11\" (2024) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 23.04,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558299,
-      "name": "iPad Air 4 (2020) / iPad Air 5 (2022) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 147.32,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 1393377,
-      "name": "iPad Air/5 Black Digitizer",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 1
-      },
-      "disabled": false,
-      "price_cost": 14.27,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 1393380,
-      "name": "iPad Air/5 White Digitizer",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 5,
-      "perLoc": {
-        "Wilmington": 3,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 14.18,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549236,
-      "name": "iPad Mini 6 (2021) / iPad Mini 7 (2024) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 18.83,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549241,
-      "name": "iPad Pro 11\" 1st Gen (2018) / iPad Pro 11\" 2nd Gen (2020) / iPad Pro 12.9\" 3rd Gen (2018) / iPad Pro 12.9\" 4th Gen (2020) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 5.66,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558295,
-      "name": "iPad Pro 11\" 1st Gen (2018) / iPad Pro 11\" 2nd Gen (2020) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 114.61,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549239,
-      "name": "iPad Pro 11\" 1st Gen (2018) / iPad Pro 11\" 2nd Gen (2020) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 191.29,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23553528,
-      "name": "iPad Pro 11\" 3rd Gen (2021) / iPad Pro 11\" 4th Gen (2022) / iPad Pro 12.9\" 5th Gen (2021) / iPad Pro 12.9\" 6th Gen (2022) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 5.34,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549244,
-      "name": "iPad Pro 11\" 3rd Gen (2021) / iPad Pro 11\" 4th Gen (2022) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 30.81,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558311,
-      "name": "iPad Pro 11\" 3rd Gen (2021) / iPad Pro 11\" 4th Gen (2022) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 129.8,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549243,
-      "name": "iPad Pro 11\" 3rd Gen (2021) / iPad Pro 11\" 4th Gen (2022) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 233.51,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549245,
-      "name": "iPad Pro 11\" 3rd Gen (2021) / iPad Pro 12.9\" 5th Gen (2021) / iPad Pro 12.9\" 6th Gen (2022) | Charging Port",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 5.35,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17191829,
-      "name": "iPad Pro 12.9 3rd/4th iPad Pro 11 1st/2nd Charging Flex",
-      "family": "ipad",
-      "categoryId": "666241",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 0
-      },
-      "disabled": false,
-      "price_cost": 3.3,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549250,
-      "name": "iPad Pro 12.9\" 3rd Gen (2018) / iPad Pro 12.9\" 4th Gen (2020) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 34.43,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558296,
-      "name": "iPad Pro 12.9\" 3rd Gen (2018) / iPad Pro 12.9\" 4th Gen (2020) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 134.35,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549249,
-      "name": "iPad Pro 12.9\" 3rd Gen (2018) / iPad Pro 12.9\" 4th Gen (2020) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 166.7,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549252,
-      "name": "iPad Pro 12.9\" 5th Gen (2021) / iPad Pro 12.9\" 6th Gen (2022) | Battery",
-      "family": "ipad",
-      "categoryId": "666236",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 36.08,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23558297,
-      "name": "iPad Pro 12.9\" 5th Gen (2021) / iPad Pro 12.9\" 6th Gen (2022) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 233.52,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549251,
-      "name": "iPad Pro 12.9\" 5th Gen (2021) / iPad Pro 12.9\" 6th Gen (2022) | Screen",
-      "family": "ipad",
-      "categoryId": "636696",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 270.84,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 15402566,
-      "name": "iPhone 11 | Charging Port",
-      "family": "iphone",
-      "categoryId": "666240",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 14.14,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23057614,
-      "name": "iPhone 11 | LCD| BLACK |IG",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": true,
-      "price_cost": 17.55,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 10835879,
-      "name": "iPhone 11 Pro Max | OLED| BLACK",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Wilmington": 2,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 40.25,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549136,
-      "name": "iPhone 12 / iPhone 12 Pro | Basic Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 15.95,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17187145,
-      "name": "iPhone 12 / iPhone 12 Pro | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 5,
-      "perLoc": {
-        "Wilmington": 3,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 21.59,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 15143410,
-      "name": "iPhone 12 / iPhone 12 Pro | Standard Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 7,
-      "perLoc": {
-        "Jacksonville": 4,
-        "Wilmington": 3
-      },
-      "disabled": false,
-      "price_cost": 40.96,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 15830284,
-      "name": "iPhone 12 Mini | OLED| BLACK",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 1
-      },
-      "disabled": false,
-      "price_cost": 108.42,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17187114,
-      "name": "iPhone 12 Mini Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 5,
-      "perLoc": {
-        "Wilmington": 2,
-        "Jacksonville": 3
-      },
-      "disabled": false,
-      "price_cost": 18.88,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17187136,
-      "name": "iPhone 12 Pro Max Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 4,
-      "perLoc": {
-        "Wilmington": 2,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 25.35,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 15830343,
-      "name": "iPhone 13 Mini | OLED| BLACK",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 2
-      },
-      "disabled": false,
-      "price_cost": 64.04,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 18650343,
-      "name": "iPhone 14 Pro | OLED| BLACK",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 4,
-      "perLoc": {
-        "Wilmington": 2,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 103.02,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 21266034,
-      "name": "iPhone 15 Pro | OLED | Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 0
-      },
-      "disabled": false,
-      "price_cost": 0,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22719589,
-      "name": "iPhone 15 Pro Max | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 4,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 3
-      },
-      "disabled": false,
-      "price_cost": 18.21,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23499692,
-      "name": "iPhone 16 | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 3,
-      "perLoc": {
-        "Wilmington": 2,
-        "Jacksonville": 1
-      },
-      "disabled": false,
-      "price_cost": 52.76,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23499698,
-      "name": "iPhone 16 Pro | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 2
-      },
-      "disabled": false,
-      "price_cost": 64.31,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549203,
-      "name": "iPhone 16e / iPhone 17e | Basic Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 20.8,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549204,
-      "name": "iPhone 16e / iPhone 17e | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 15.99,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22067755,
-      "name": "iPhone 16e / iPhone 17e | Standard Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 2,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 2
-      },
-      "disabled": false,
-      "price_cost": 48.01,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 4464683,
-      "name": "iPhone 7 | Charging Port",
-      "family": "iphone",
-      "categoryId": "666240",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 9.05,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23544103,
-      "name": "iPhone Air | Screen | Standard",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 205.76,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23553755,
-      "name": "iPhone SE (2020) / iPhone SE (2022) | Basic Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 0
-      },
-      "disabled": false,
-      "price_cost": 11.64,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 5978597,
-      "name": "iPhone SE (2020) / iPhone SE (2022) | Standard Screen",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 10,
-      "perLoc": {
-        "Jacksonville": 4,
-        "Wilmington": 6
-      },
-      "disabled": false,
-      "price_cost": 13.57,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 15403172,
-      "name": "iPhone SE 2016 | Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 7.71,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 5224512,
-      "name": "iPhone SE 2020 Battery",
-      "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
-      "totalQty": 4,
-      "perLoc": {
-        "Jacksonville": 2,
-        "Wilmington": 2
-      },
-      "disabled": false,
-      "price_cost": 11.77,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 5978595,
-      "name": "iPhone SE2/3  | LCD | White ",
-      "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
-      "totalQty": 6,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 6
-      },
-      "disabled": false,
-      "price_cost": 12.63,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPad 6"
+      ],
+      "via": "name"
     },
     {
       "id": 14534683,
       "name": "iPhone X | Battery",
       "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -1877,15 +51,15 @@
       },
       "disabled": false,
       "price_cost": 12.62,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone X"
+      ],
+      "via": "name"
     },
     {
       "id": 7912498,
       "name": "iPhone X | OLED| BLACK",
       "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -1893,15 +67,15 @@
       },
       "disabled": false,
       "price_cost": 32.28,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone X"
+      ],
+      "via": "name"
     },
     {
       "id": 14898589,
       "name": "iPhone XR |Battery",
       "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Wilmington": 1,
@@ -1909,15 +83,15 @@
       },
       "disabled": false,
       "price_cost": 18.38,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XR"
+      ],
+      "via": "name"
     },
     {
       "id": 9839136,
       "name": "iPhone XR| LCD| BLACK",
       "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Jacksonville": 0,
@@ -1925,15 +99,15 @@
       },
       "disabled": false,
       "price_cost": 16.78,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XR"
+      ],
+      "via": "name"
     },
     {
       "id": 15366192,
       "name": "iPhone XS |Battery",
       "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -1941,15 +115,15 @@
       },
       "disabled": false,
       "price_cost": 15.45,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XS"
+      ],
+      "via": "name"
     },
     {
       "id": 15402023,
       "name": "iPhone XS MAX | Charging Port",
       "family": "iphone",
-      "categoryId": "666240",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Wilmington": 1,
@@ -1957,15 +131,15 @@
       },
       "disabled": false,
       "price_cost": 7.63,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XS MAX"
+      ],
+      "via": "name"
     },
     {
       "id": 14898578,
       "name": "iPhone XS Max |Battery",
       "family": "iphone",
-      "categoryId": "666237",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -1973,15 +147,15 @@
       },
       "disabled": false,
       "price_cost": 14.12,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XS Max"
+      ],
+      "via": "name"
     },
     {
       "id": 9839137,
       "name": "iPhone XS Max| OLED| BLACK",
       "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -1989,15 +163,15 @@
       },
       "disabled": false,
       "price_cost": 31.78,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XS Max"
+      ],
+      "via": "name"
     },
     {
       "id": 9839135,
       "name": "iPhone XS| OLED| BLACK",
       "family": "iphone",
-      "categoryId": "636698",
-      "device": "",
-      "partKey": "",
       "totalQty": 2,
       "perLoc": {
         "Wilmington": 2,
@@ -2005,159 +179,85 @@
       },
       "disabled": false,
       "price_cost": 33.51,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "iPhone XS"
+      ],
+      "via": "name"
     },
     {
-      "id": 22628759,
-      "name": "Samsung Galaxy S21|Battery",
+      "id": 22619682,
+      "name": "Galaxy S21 Plus | Back Glass / Rear Housing",
       "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
+      "totalQty": 1,
+      "perLoc": {
+        "Wilmington": 1,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 29.28,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 22628753,
+      "name": "Galaxy S21 Plus | Battery",
+      "family": "samsung",
+      "totalQty": 1,
+      "perLoc": {
+        "Wilmington": 1,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 26.21,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 22619679,
+      "name": "Galaxy S21 Ultra | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 2,
       "perLoc": {
         "Jacksonville": 0,
-        "Wilmington": 0
+        "Wilmington": 2
       },
       "disabled": false,
-      "price_cost": 11.53,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "price_cost": 23.89,
+      "device": "Galaxy S21 Ultra",
+      "via": "partkey"
     },
     {
-      "id": 22628736,
-      "name": "Samsung Galaxy S22 |Battery",
+      "id": 22628741,
+      "name": "Galaxy S21 Ultra | Battery",
       "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
+      "totalQty": 1,
+      "perLoc": {
+        "Wilmington": 1,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 26.21,
+      "device": "Galaxy S21 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23234905,
+      "name": "Galaxy S21 Ultra | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 2,
       "perLoc": {
         "Jacksonville": 0,
-        "Wilmington": 0
+        "Wilmington": 2
       },
       "disabled": false,
-      "price_cost": 10.64,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22619667,
-      "name": "Samsung Galaxy S22 Plus |Back Cover (Green)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 27.5,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23234911,
-      "name": "Samsung Galaxy S22 Ultra|Back Cover (Green)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 1
-      },
-      "disabled": false,
-      "price_cost": 47.92,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 17191853,
-      "name": "Samsung Galaxy S22 Ultra|Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 13.18,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22619659,
-      "name": "Samsung Galaxy S23|Back Cover (Graphite)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 27.52,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22619644,
-      "name": "Samsung Galaxy S24 |Back Cover (Marble Gray)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 28.24,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22619640,
-      "name": "Samsung Galaxy S24 Ultra |Back Cover (Titanium Blue)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 1,
-      "perLoc": {
-        "Wilmington": 1,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 30.81,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 23549348,
-      "name": "Samsung Galaxy S25 FE / Galaxy S25 Plus | Battery",
-      "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Wilmington": 0,
-        "Jacksonville": 0
-      },
-      "disabled": false,
-      "price_cost": 13.77,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "price_cost": 244.48,
+      "device": "Galaxy S21 Ultra",
+      "via": "partkey"
     },
     {
       "id": 23234917,
       "name": "Samsung Note 10 Plus |Battery",
       "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Jacksonville": 0,
@@ -2165,15 +265,15 @@
       },
       "disabled": false,
       "price_cost": 28.5,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 10 Plus"
+      ],
+      "via": "name"
     },
     {
       "id": 22619688,
       "name": "Samsung Note 20 |Back Cover (Mystic Gray)",
       "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Wilmington": 1,
@@ -2181,31 +281,15 @@
       },
       "disabled": false,
       "price_cost": 23.03,
-      "reviewReason": "no_catalog_part_key_in_notes"
-    },
-    {
-      "id": 22619615,
-      "name": "Samsung Note 20 Ultra |Back Glass (Mystic Black)",
-      "family": "samsung",
-      "categoryId": "666247",
-      "device": "",
-      "partKey": "",
-      "totalQty": 0,
-      "perLoc": {
-        "Jacksonville": 0,
-        "Wilmington": 0
-      },
-      "disabled": false,
-      "price_cost": 28.5,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 20"
+      ],
+      "via": "name"
     },
     {
       "id": 23234915,
       "name": "Samsung Note 20 Ultra |OLED Assembly (White)",
       "family": "samsung",
-      "categoryId": "636697",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Jacksonville": 0,
@@ -2213,15 +297,15 @@
       },
       "disabled": false,
       "price_cost": 214.5,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 20 Ultra"
+      ],
+      "via": "name"
     },
     {
       "id": 22628766,
       "name": "Samsung Note 20 Ultra|Battery",
       "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Wilmington": 1,
@@ -2229,15 +313,15 @@
       },
       "disabled": false,
       "price_cost": 12.05,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 20 Ultra"
+      ],
+      "via": "name"
     },
     {
       "id": 23234903,
       "name": "Samsung Note 20 Ultra|OLED Assembly (Mystic Black)",
       "family": "samsung",
-      "categoryId": "636697",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Jacksonville": 0,
@@ -2245,15 +329,15 @@
       },
       "disabled": false,
       "price_cost": 214.5,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 20 Ultra"
+      ],
+      "via": "name"
     },
     {
       "id": 22628762,
       "name": "Samsung Note 20|Battery",
       "family": "samsung",
-      "categoryId": "666238",
-      "device": "",
-      "partKey": "",
       "totalQty": 1,
       "perLoc": {
         "Wilmington": 1,
@@ -2261,7 +345,705 @@
       },
       "disabled": false,
       "price_cost": 26.4,
-      "reviewReason": "no_catalog_part_key_in_notes"
+      "parsed": [
+        "Note 20"
+      ],
+      "via": "name"
+    }
+  ],
+  "wouldDisable": [
+    {
+      "id": 5881508,
+      "name": "iPad 5 white Digitizer",
+      "family": "ipad",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": true,
+      "price_cost": 14.65,
+      "parsed": [
+        "iPad 5"
+      ],
+      "via": "name"
+    },
+    {
+      "id": 17186280,
+      "name": "iPad 7 10.2\" Digitizer- Black",
+      "family": "ipad",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": true,
+      "price_cost": 14.01,
+      "parsed": [
+        "iPad 7 10.2\""
+      ],
+      "via": "name"
+    },
+    {
+      "id": 17187070,
+      "name": "iPad 7 10.2\" Digitizer- White",
+      "family": "ipad",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": true,
+      "price_cost": 14.76,
+      "parsed": [
+        "iPad 7 10.2\""
+      ],
+      "via": "name"
+    },
+    {
+      "id": 4464683,
+      "name": "iPhone 7 | Charging Port",
+      "family": "iphone",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 9.05,
+      "parsed": [
+        "iPhone 7"
+      ],
+      "via": "name"
+    },
+    {
+      "id": 23559102,
+      "name": "Google Pixel 5 | Back Glass | Rear Housing",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 96.53,
+      "device": "Pixel 5",
+      "via": "partkey"
+    },
+    {
+      "id": 23549364,
+      "name": "Google Pixel 5 | Battery",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 22.53,
+      "device": "Pixel 5",
+      "via": "partkey"
+    },
+    {
+      "id": 23549362,
+      "name": "Google Pixel 5 | Screen",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 180.03,
+      "device": "Pixel 5",
+      "via": "partkey"
+    },
+    {
+      "id": 23549365,
+      "name": "Pixel 5 | Back Glass / Rear Housing",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 2.57,
+      "device": "Pixel 5",
+      "via": "partkey"
+    },
+    {
+      "id": 23549367,
+      "name": "Pixel 5A 5G | Battery",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 10.21,
+      "device": "Pixel 5A 5G",
+      "via": "partkey"
+    },
+    {
+      "id": 23553677,
+      "name": "Pixel 5A 5G | Screen",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 82.9,
+      "device": "Pixel 5A 5G",
+      "via": "partkey"
+    },
+    {
+      "id": 23549366,
+      "name": "Pixel 5A 5G | Screen old",
+      "family": "pixel",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": true,
+      "price_cost": 85.03,
+      "device": "Pixel 5A 5G",
+      "via": "partkey"
+    },
+    {
+      "id": 23549259,
+      "name": "Galaxy S20 | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 22.91,
+      "device": "Galaxy S20",
+      "via": "partkey"
+    },
+    {
+      "id": 23549258,
+      "name": "Galaxy S20 | Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 23.28,
+      "device": "Galaxy S20",
+      "via": "partkey"
+    },
+    {
+      "id": 23549255,
+      "name": "Galaxy S20 | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 185.33,
+      "device": "Galaxy S20",
+      "via": "partkey"
+    },
+    {
+      "id": 23549256,
+      "name": "Galaxy S20 | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 162.2,
+      "device": "Galaxy S20",
+      "via": "partkey"
+    },
+    {
+      "id": 23549264,
+      "name": "Galaxy S20 FE | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 20.2,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23549262,
+      "name": "Galaxy S20 FE | Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 19.11,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23549263,
+      "name": "Galaxy S20 FE | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 12.76,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23553762,
+      "name": "Galaxy S20 FE | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 95.58,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23552155,
+      "name": "Galaxy S20 FE | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 89.07,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23549260,
+      "name": "Galaxy S20 FE | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 83.2,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23549261,
+      "name": "Galaxy S20 FE | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 70.4,
+      "device": "Galaxy S20 FE",
+      "via": "partkey"
+    },
+    {
+      "id": 23549269,
+      "name": "Galaxy S20 Plus | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 29.24,
+      "device": "Galaxy S20 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549267,
+      "name": "Galaxy S20 Plus | Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 27.13,
+      "device": "Galaxy S20 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549265,
+      "name": "Galaxy S20 Plus | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 173.6,
+      "device": "Galaxy S20 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549266,
+      "name": "Galaxy S20 Plus | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 152.71,
+      "device": "Galaxy S20 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549274,
+      "name": "Galaxy S20 Ultra | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 29.28,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23549272,
+      "name": "Galaxy S20 Ultra | Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 29.45,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23549273,
+      "name": "Galaxy S20 Ultra | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 3.29,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23553541,
+      "name": "Galaxy S20 Ultra | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 193.42,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23549270,
+      "name": "Galaxy S20 Ultra | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 215.59,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23549271,
+      "name": "Galaxy S20 Ultra | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 182.88,
+      "device": "Galaxy S20 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 22619687,
+      "name": "Galaxy S21 | Back Glass / Rear Housing",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Jacksonville": 0,
+        "Wilmington": 0
+      },
+      "disabled": false,
+      "price_cost": 21.48,
+      "device": "Galaxy S21",
+      "via": "partkey"
+    },
+    {
+      "id": 23549278,
+      "name": "Galaxy S21 | Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 24.29,
+      "device": "Galaxy S21",
+      "via": "partkey"
+    },
+    {
+      "id": 23549279,
+      "name": "Galaxy S21 | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 16.81,
+      "device": "Galaxy S21",
+      "via": "partkey"
+    },
+    {
+      "id": 23549276,
+      "name": "Galaxy S21 | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 142.69,
+      "device": "Galaxy S21",
+      "via": "partkey"
+    },
+    {
+      "id": 23549277,
+      "name": "Galaxy S21 | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 117.03,
+      "device": "Galaxy S21",
+      "via": "partkey"
+    },
+    {
+      "id": 23553526,
+      "name": "Galaxy S21 Plus | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 10.12,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23552158,
+      "name": "Galaxy S21 Plus | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 6.72,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549287,
+      "name": "Galaxy S21 Plus | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 15.44,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549285,
+      "name": "Galaxy S21 Plus | Screen | With Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 158.57,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549286,
+      "name": "Galaxy S21 Plus | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 125.43,
+      "device": "Galaxy S21 Plus",
+      "via": "partkey"
+    },
+    {
+      "id": 23549289,
+      "name": "Galaxy S21 Ultra | Charging Port",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 15.72,
+      "device": "Galaxy S21 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 23549288,
+      "name": "Galaxy S21 Ultra | Screen | Without Frame",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Wilmington": 0,
+        "Jacksonville": 0
+      },
+      "disabled": false,
+      "price_cost": 216.43,
+      "device": "Galaxy S21 Ultra",
+      "via": "partkey"
+    },
+    {
+      "id": 22628759,
+      "name": "Samsung Galaxy S21|Battery",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Jacksonville": 0,
+        "Wilmington": 0
+      },
+      "disabled": false,
+      "price_cost": 11.53,
+      "parsed": [
+        "Galaxy S21"
+      ],
+      "via": "name"
+    },
+    {
+      "id": 22619615,
+      "name": "Samsung Note 20 Ultra |Back Glass (Mystic Black)",
+      "family": "samsung",
+      "totalQty": 0,
+      "perLoc": {
+        "Jacksonville": 0,
+        "Wilmington": 0
+      },
+      "disabled": false,
+      "price_cost": 28.5,
+      "parsed": [
+        "Note 20 Ultra"
+      ],
+      "via": "name"
+    }
+  ],
+  "reviewManual": [
+    {
+      "id": 17191829,
+      "name": "iPad Pro 12.9 3rd/4th iPad Pro 11 1st/2nd Charging Flex",
+      "family": "ipad",
+      "totalQty": 0,
+      "perLoc": {
+        "Jacksonville": 0,
+        "Wilmington": 0
+      },
+      "disabled": false,
+      "price_cost": 3.3,
+      "parsed": [
+        "iPad Pro 12.9 3rd",
+        "iPad Pro 4th iPad Pro 11 1st",
+        "iPad Pro 2nd"
+      ],
+      "reviewReason": "name_unreadable"
+    },
+    {
+      "id": 5978595,
+      "name": "iPhone SE2/3  | LCD | White ",
+      "family": "iphone",
+      "totalQty": 6,
+      "perLoc": {
+        "Jacksonville": 0,
+        "Wilmington": 6
+      },
+      "disabled": false,
+      "price_cost": 12.63,
+      "parsed": [
+        "iPhone SE2",
+        "iPhone 3"
+      ],
+      "reviewReason": "name_unreadable"
     }
   ]
 }
