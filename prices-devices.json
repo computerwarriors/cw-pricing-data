@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-06T16:47:28.389Z",
+  "_generated": "2026-07-10T18:23:23.962Z",
   "_warranty": {
     "screen": "Lifetime warranty on parts and labor, plus one free re-repair if the screen cracks again within 12 months.",
     "screenLine": "Premium-grade display, color-matched and touch-tested. Covered for life against defects — and if it cracks again within 12 months, we'll repair it once for free.",
@@ -983,17 +983,25 @@
           "warranty": "Lifetime warranty"
         },
         "Charging Port Repair": {
-          "price": 119.95,
+          "price": 129.95,
+          "warranty": "Lifetime warranty"
+        },
+        "Back Glass / Back Cover": {
+          "price": 129.95,
           "warranty": "Lifetime warranty"
         }
       },
       "Galaxy S26 Plus": {
         "Screen Repair": {
-          "price": 319.95,
+          "price": 329.95,
           "warranty": "Lifetime warranty"
         },
         "Charging Port Repair": {
           "price": 119.95,
+          "warranty": "Lifetime warranty"
+        },
+        "Back Glass / Back Cover": {
+          "price": 129.95,
           "warranty": "Lifetime warranty"
         }
       },
@@ -1004,6 +1012,10 @@
         },
         "Charging Port Repair": {
           "price": 119.95,
+          "warranty": "Lifetime warranty"
+        },
+        "Back Glass / Back Cover": {
+          "price": 269.95,
           "warranty": "Lifetime warranty"
         }
       },
@@ -1021,7 +1033,7 @@
           "warranty": "Lifetime warranty"
         },
         "Back Glass / Back Cover": {
-          "price": 159.95,
+          "price": 169.95,
           "warranty": "Lifetime warranty"
         }
       },
@@ -1044,6 +1056,10 @@
         }
       },
       "Galaxy S25 Edge": {
+        "Screen Repair": {
+          "price": 479.95,
+          "warranty": "Lifetime warranty"
+        },
         "Back Glass / Back Cover": {
           "price": 169.95,
           "warranty": "Lifetime warranty"
@@ -1099,7 +1115,7 @@
           "warranty": "Lifetime warranty"
         },
         "Back Glass / Back Cover": {
-          "price": 159.95,
+          "price": 149.95,
           "warranty": "Lifetime warranty"
         }
       },
@@ -1221,7 +1237,7 @@
           "warranty": "Lifetime warranty"
         },
         "Back Glass / Back Cover": {
-          "price": 149.95,
+          "price": 139.95,
           "warranty": "Lifetime warranty"
         }
       },
@@ -1267,7 +1283,7 @@
           "warranty": "Lifetime warranty"
         },
         "Battery Repair": {
-          "price": 109.95,
+          "price": 129.95,
           "warranty": "1-year warranty"
         },
         "Charging Port Repair": {
