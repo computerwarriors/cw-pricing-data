@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-10T23:30:21.277Z",
+  "_generated": "2026-07-10T23:35:38.495Z",
   "_rule": "Device supported if on current major OS (iOS 26 / iPadOS 26 / Android 16). Multi-fit part kept if ANY fitted device is on current OS.",
   "scannedProductCount": 649,
   "counts": {
