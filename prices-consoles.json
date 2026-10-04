@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-10-01T10:00:03.740Z",
+  "_generated": "2026-10-04T17:51:53.736Z",
   "_warranty": {
     "screen": "Lifetime warranty on parts and labor, plus one free re-repair if the screen cracks again within 12 months.",
     "screenLine": "Premium-grade display, color-matched and touch-tested. Covered for life against defects — and if it cracks again within 12 months, we'll repair it once for free.",
@@ -10,6 +10,113 @@
   },
   "console": {
     "label": "Console",
-    "models": {}
+    "models": {
+      "Nintendo Switch": {
+        "Battery Replacement": {
+          "price": 119.95,
+          "warranty": "1-year warranty"
+        },
+        "Charging Port Repair": {
+          "price": 150,
+          "warranty": "1-year warranty"
+        },
+        "Screen Replacement": {
+          "price": 149.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "Nintendo Switch Lite": {
+        "Battery Replacement": {
+          "price": 119.95,
+          "warranty": "1-year warranty"
+        },
+        "Charging Port Repair": {
+          "price": 150,
+          "warranty": "1-year warranty"
+        },
+        "Screen Replacement": {
+          "price": 149.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "Nintendo Switch OLED": {
+        "Battery Replacement": {
+          "price": 119.95,
+          "warranty": "1-year warranty"
+        },
+        "Charging Port Repair": {
+          "price": 150,
+          "warranty": "1-year warranty"
+        },
+        "Screen Replacement": {
+          "price": 239.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "Xbox One, One S, and One X": {
+        "HDMI Port Repair": {
+          "price": 199.95,
+          "warranty": "1-year warranty"
+        },
+        "Hard Drive Replacement": {
+          "price": 179.95,
+          "warranty": "1-year warranty"
+        },
+        "Power Supply Replacement": {
+          "price": 159.95,
+          "warranty": "1-year warranty"
+        },
+        "Disc Drive Replacement": {
+          "price": 149.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "Xbox Series X and Series S": {
+        "HDMI Port Repair": {
+          "price": 199.95,
+          "warranty": "1-year warranty"
+        },
+        "Power Supply Replacement": {
+          "price": 169.95,
+          "warranty": "1-year warranty"
+        },
+        "Disc Drive Replacement": {
+          "price": 149.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "PlayStation 4, PS4 Slim, and PS4 Pro": {
+        "HDMI Port Repair": {
+          "price": 199.95,
+          "warranty": "1-year warranty"
+        },
+        "Hard Drive Replacement": {
+          "price": 179.95,
+          "warranty": "1-year warranty"
+        },
+        "Power Supply Replacement": {
+          "price": 159.95,
+          "warranty": "1-year warranty"
+        },
+        "Disc Drive Replacement": {
+          "price": 159.95,
+          "warranty": "1-year warranty"
+        }
+      },
+      "PlayStation 5, PS5 Digital, and PS5 Slim": {
+        "HDMI Port Repair": {
+          "price": 199.95,
+          "warranty": "1-year warranty"
+        },
+        "Power Supply Replacement": {
+          "price": 169.95,
+          "warranty": "1-year warranty"
+        },
+        "Disc Drive Replacement": {
+          "price": 189.95,
+          "warranty": "1-year warranty"
+        }
+      }
+    }
   }
 }
