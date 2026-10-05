@@ -1,0 +1,106 @@
+{
+  "_generated": "2026-10-05T01:35:34.200Z",
+  "_source": "RepairShopr wiki pages 21103 (Computer) and 334777 (Console)",
+  "deposits": {
+    "computer_diagnostic": 75,
+    "console_diagnostic": 50
+  },
+  "priority": {
+    "computer": 100,
+    "console": 75
+  },
+  "services": {
+    "computer": {
+      "Computer Diagnostic": {
+        "price": 75,
+        "description": "Deposit taken at check-in on every computer. Applies to the repair when the customer proceeds."
+      },
+      "Priority Service (Computer)": {
+        "price": 100,
+        "description": "Front of the queue plus a diagnostic answer within one business day. Never same day."
+      },
+      "Shop Labor": {
+        "price": 135,
+        "description": "One-hour minimum. Use when the work is not covered by an existing billing code. Get the estimate approved before starting, then bill in 30-minute increments."
+      },
+      "Corrected During Diagnostics (Computer)": {
+        "price": 75,
+        "description": "Fault found and fixed inside the diagnostic, with no part and no deeper disassembly. The deposit is already on the invoice as a negative, so this line zeroes it out."
+      },
+      "Declined Repair": {
+        "price": 75,
+        "description": "Used when the customer declines the recommended repair. The deposit is already on the invoice as a negative, so this line zeroes it out."
+      },
+      "No Issue Found (Computer)": {
+        "price": 75,
+        "description": "Used when no fault is found or the reported issue cannot be reproduced during testing. The deposit is already on the invoice as a negative, so this line zeroes it out."
+      },
+      "Gillware Data Recovery": {
+        "price": 350,
+        "description": "Gillware data recovery service charge."
+      },
+      "Data Transfer": {
+        "price": 100,
+        "description": "Transfer customer data to a computer or supported external storage device. Its own line whenever there is data to move."
+      },
+      "Clone to Different Hardware": {
+        "price": 250,
+        "description": "Clone an existing drive for use with different computer hardware."
+      },
+      "Hard Drive Clone": {
+        "price": 135,
+        "description": "Clone an existing drive as part of a storage upgrade or computer repair. The drive is included and is not also billed as a Simple Part Install."
+      },
+      "New Computer Setup": {
+        "price": 135,
+        "description": "Set up a new computer and complete the standard initial configuration. Included with a computer bought here."
+      },
+      "Operating System Clean Install": {
+        "price": 160,
+        "description": "Perform a clean installation of the supported operating system. Use this instead of the cleanup when the OS is too damaged to clean, never both."
+      },
+      "Password Removal": {
+        "price": 100,
+        "description": "Remove or reset a supported local account password when ownership can be verified."
+      },
+      "Thermal Service": {
+        "price": 175,
+        "description": "Internal cleaning and replacement of applicable thermal paste or thermal materials."
+      },
+      "Tune-Up": {
+        "price": 135,
+        "description": "Standard software optimization and maintenance service."
+      },
+      "Virus, Malware, or Scam Cleanup": {
+        "price": 150,
+        "description": "Viruses, malware, adware and PUPs, remote-access and tech-support scam cleanup, browser reset, security check, verification scan."
+      },
+      "In-Shop Consultation (30 mins to 1 hour)": {
+        "price": 135,
+        "description": "Sit-down time with a technician to review options, plan a purchase, or get a second opinion. Quoted before the tech sits down. Never credited toward a repair."
+      },
+      "Insurance Quote": {
+        "price": 85,
+        "description": "Prepare a written repair or replacement estimate for an insurance claim."
+      }
+    },
+    "console": {
+      "Game Console Diagnostic": {
+        "price": 50,
+        "description": "Deposit taken at check-in on every console. Applies to the repair when the customer proceeds."
+      },
+      "Full Internal Cleaning": {
+        "price": 100,
+        "description": "Includes disassembling the console, cleaning the internal components, fans, and heatsinks, and replacing the thermal paste as applicable. PlayStation 5 liquid metal and Nintendo Switch devices are excluded."
+      },
+      "PS5 Liquid Metal Cleaning": {
+        "price": 150,
+        "description": "Full teardown, removal of the old liquid metal, and reapplication. PlayStation 5 only."
+      },
+      "Priority Service": {
+        "price": 75,
+        "description": "Front of the queue plus a diagnostic answer within one business day. Never same day."
+      }
+    }
+  }
+}
